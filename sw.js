@@ -1,5 +1,5 @@
 // Service Worker - Crypto Signal Pro v2 (bundled)
-const CACHE_NAME = 'crypto-signal-pro-v2-step1c';
+const CACHE_NAME = 'crypto-signal-pro-v2-step3-final';
 const APP_SHELL = [
   './',
   './index.html',
